@@ -27,12 +27,12 @@ export default function AboutComponent() {
 
         <div className="items-center">
           <p className="px-12 pb-4 ">
-            At Diamond Q Construction, we don't just build structures; we craft
-            environments that enhance and inspire everyday living. Trusted by
-            homeowners and businesses alike, our projects stand as a testament
-            to our commitment to excellence and innovation. Celebrate your next
-            chapter in a space designed and built with precision and passion by
-            Diamond Q Construction.
+            At Diamond Q Construction, we don&apos;t just build structures; we
+            craft environments that enhance and inspire everyday living. Trusted
+            by homeowners and businesses alike, our projects stand as a
+            testament to our commitment to excellence and innovation. Celebrate
+            your next chapter in a space designed and built with precision and
+            passion by Diamond Q Construction.
           </p>
           {/* <div className="flex px-12 pt-4 gap-x-4 ">
             <Image
